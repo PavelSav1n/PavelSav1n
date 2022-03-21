@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PavelSav1n, system administrator, who has been working with computers in almost all spheres since 1995.
+- 👋 Hi, I’m Pavel Savin, system administrator, who has been working with computers in almost all spheres since 1995.
 - 👀 But now I’m interested in coding so
 - 🌱 I’m currently learning Java
 - 💞️ 
