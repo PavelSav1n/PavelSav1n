@@ -2,7 +2,7 @@
 - 👀 But now I’m interested in coding so
 - 🌱 I’m currently learning Java
 - 💞️ 
-- 📫 How to reach me ... nah, currently i'm stuck in Russia.
+- 📫 How to reach me ...
 
 <!---
 PavelSav1n/PavelSav1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
