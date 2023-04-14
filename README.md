@@ -1,6 +1,8 @@
 My name is `Pavel Savin` -- a **system administrator**, who has been working with computers in almost all spheres since 1995.
 
 ### EDUCATION 
+<details>
+<summary>Details ...</summary>
 #### 2004 -- 2009
 - Place: Saint-Petersburg's State University of Water Communications, SPSUWC, RU
 - Faculty: Information technology
@@ -19,10 +21,10 @@ My name is `Pavel Savin` -- a **system administrator**, who has been working wit
 - Place: **WebSoft Development Ltd**
 - Competence: `WebTutor Programmer`
 
-#### 2022-2023
+#### 2022 -- 2023
 - Place: **ITsJAVA programming school**
 - Competence: `Java Developer`
-
+</details>
 
 
 
