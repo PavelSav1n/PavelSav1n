@@ -2,26 +2,26 @@ My name is `Pavel Savin` -- a **system administrator**, who has been working wit
 
 ### EDUCATION 
 #### 2004 -- 2009
-Place: Saint-Petersburg's State University of Water Communications, SPSUWC, RU
-Faculty: Information technology
-Competence: Engeneer's degree
+- Place: Saint-Petersburg's State University of Water Communications, SPSUWC, RU
+- Faculty: Information technology
+- Competence: Engeneer's degree
 
 #### 2009
-Place: Applied Automation & Programming Institute, RU
-Subject: **IP-network administration**
-Competence: `Specialist`
+- Place: Applied Automation & Programming Institute, RU
+- Subject: **IP-network administration**
+- Competence: `Specialist`
 
 #### 2016
-Place: **1-C Bitrix Academy**
-Competence: `Bitrix Administrator`
+- Place: **1-C Bitrix Academy**
+- Competence: `Bitrix Administrator`
 
 #### 2018
-Place: **WebSoft Development Ltd**
-Competence: `WebTutor Programmer`
+- Place: **WebSoft Development Ltd**
+- Competence: `WebTutor Programmer`
 
 #### 2022-2023
-Place: **ITsJAVA programming school**
-Competence: `Java Developer`
+- Place: **ITsJAVA programming school**
+- Competence: `Java Developer`
 
 
 
