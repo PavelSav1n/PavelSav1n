@@ -5,12 +5,12 @@ My name is `Pavel Savin` -- a **system administrator**, who has been working wit
   <summary>Details ...</summary>
   
 #### 2004 -- 2009
-- Place: Saint-Petersburg's State University of Water Communications, SPSUWC, RU
-- Faculty: Information technology
+- Place: **Saint-Petersburg's State University of Water Communications, SPSUWC, RU**
+- Faculty: **Information technology**
 - Competence: Engeneer's degree
 
 #### 2009
-- Place: Applied Automation & Programming Institute, RU
+- Place: **Applied Automation & Programming Institute, RU**
 - Subject: **IP-network administration**
 - Competence: `Specialist`
 
