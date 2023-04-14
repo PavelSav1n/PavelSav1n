@@ -2,7 +2,8 @@ My name is `Pavel Savin` -- a **system administrator**, who has been working wit
 
 ### EDUCATION 
 <details>
-<summary>Details ...</summary>
+  <summary>Details ...</summary>
+  
 #### 2004 -- 2009
 - Place: Saint-Petersburg's State University of Water Communications, SPSUWC, RU
 - Faculty: Information technology
@@ -24,6 +25,7 @@ My name is `Pavel Savin` -- a **system administrator**, who has been working wit
 #### 2022 -- 2023
 - Place: **ITsJAVA programming school**
 - Competence: `Java Developer`
+  
 </details>
 
 
