@@ -7,7 +7,7 @@ My name is `Pavel Savin` -- a **system administrator**, who has been working wit
 #### 2004 -- 2009
 - Place: **Saint-Petersburg's State University of Water Communications, SPSUWC, RU**
 - Faculty: **Information technology**
-- Competence: Engeneer's degree
+- Competence: `Engeneer's degree`
 
 #### 2009
 - Place: **Applied Automation & Programming Institute, RU**
