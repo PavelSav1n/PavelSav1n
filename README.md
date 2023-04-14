@@ -10,7 +10,7 @@ My name is `Pavel Savin` -- a **system administrator**, who has been working wit
 - Competence: `Engeneer's degree`
 
 #### 2009
-- Place: **Applied Automation & Programming Institute, RU**
+- Place: **Applied Automation & Programming Institute**
 - Subject: **IP-network administration**
 - Competence: `Specialist`
 
