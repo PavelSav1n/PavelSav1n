@@ -1,4 +1,4 @@
-My name is `Pavel Savin` -- a **system administrator**, who has been working with computers in almost all spheres since 1995.
+My name is `Pavel Savin` -- an **engineer** and former **DevOps**. I have been working with computers in almost all spheres since 1995.
 
 ### EDUCATION 
 <details>
