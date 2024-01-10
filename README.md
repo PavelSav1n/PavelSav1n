@@ -3,20 +3,20 @@ My name is `Pavel Savin` -- an **engineer** and former **TechOps**. I have been 
 ### EDUCATION 
 <details>
   <summary>Details ...</summary>
-
-  #### 2022 -- 2023
+  
+#### 2022 -- 2023
 - Place: **ITsJAVA programming school**
 - Competence: `Java Developer`
 
-  #### 2018
+#### 2018
 - Place: **WebSoft Development Ltd**
 - Competence: `WebTutor Programmer`
 
-  #### 2016
+#### 2016
 - Place: **1-C Bitrix Academy**
 - Competence: `Bitrix Administrator`
 
-  #### 2009
+#### 2009
 - Place: **Applied Automation & Programming Institute**
 - Subject: **IP-network administration**
 - Competence: `Specialist`
