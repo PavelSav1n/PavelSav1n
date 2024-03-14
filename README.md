@@ -1,4 +1,4 @@
-My name is `Pavel Savin` -- an **engineer** and former **TechOps**. I have been working with computers in almost all spheres since 1995.
+Hello, I’m a IT engineer with a backend programmer ambitions. I’ve been working with computers and automated systems for 20 years. My curiosity led me through many spheres of IT professions, from low-level  hardware repair to big IT projects management.
 
 ### EDUCATION 
 <details>
