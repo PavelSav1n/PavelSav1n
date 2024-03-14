@@ -4,7 +4,7 @@ Hello, I’m a IT engineer with a backend programmer ambitions. I’ve been work
 <details>
   <summary>Details ...</summary>
   
-#### 2022 -- 2023
+#### 2022 -- 2024
 - Place: **ITsJAVA programming school**
 - Competence: `Java Developer`
 
