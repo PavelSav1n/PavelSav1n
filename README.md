@@ -1,4 +1,4 @@
-Hello, I’m a IT engineer with a backend programmer ambitions. I’ve been working with computers and automated systems for 20 years. My curiosity led me through many spheres of IT professions, from low-level  hardware repair to big IT projects management.
+Hello, I’m a IT engineer and a Java Developer. I’ve been working with computers and automated systems for many years. My curiosity led me through many spheres of IT professions, from low-level hardware maitenance to big IT projects management.
 
 ### EDUCATION 
 <details>
